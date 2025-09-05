@@ -29,9 +29,3 @@ Customizations Made
 
 ---
 
- Setup & Run Locally  
-
-1. **Clone repository**  
-   ```bash
-   git clone https://github.com/kallubavimani/mazer-task.git
-   cd mazer-task
